@@ -1,2 +1,0 @@
-Server'a git kurulacak.
-Serverdaki clone'da edu mail bilgisi silinecek.
